@@ -1,0 +1,25 @@
+{
+  "name": "fluwence-util",
+  "version": "2022.11.4",
+  "description": "Fluwence Utility Package for making complex tasks simpler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluwence/fluwence-util.git"
+  },
+  "keywords": [
+    "fluwence-util",
+    "util",
+    "fluwence",
+    "fluwenceutil"
+  ],
+  "author": "snehasishcodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluwence/fluwence-util/issues"
+  },
+  "homepage": "https://github.com/fluwence/fluwence-util#readme"
+}
